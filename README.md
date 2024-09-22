@@ -1,0 +1,1 @@
+Some of the code I write on CodinGame isn't totally awful so I figure I'll just leave it here for safe keeping
